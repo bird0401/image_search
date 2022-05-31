@@ -26,6 +26,7 @@
   - anime face 
   - segmentation
   - various metric learning approach
+- [内容にもとづいたアニメ推薦のための Contrastive Learning による埋め込み作成](https://kirarajump-tech.hatenablog.com/entry/2021/12/12/112218)
 ### PyTorch Metric Learning 
 - [PyTorch Metric Learning](https://kevinmusgrave.github.io/pytorch-metric-learning/)
   - official doc
